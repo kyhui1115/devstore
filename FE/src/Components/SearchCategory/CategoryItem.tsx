@@ -1,4 +1,4 @@
-import type { CategoryContent } from 'Pages/CYW/Products';
+import type { CategoryContent } from 'Pages/Products';
 import { useNavigate } from 'react-router-dom';
 import { LuImageOff } from 'react-icons/lu';
 

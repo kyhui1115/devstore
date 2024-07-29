@@ -1,4 +1,4 @@
-import type { OptionListType, ProductType } from 'Pages/CYW/ProductDetail';
+import type { OptionListType, ProductType } from 'Pages/ProductDetail';
 import api from 'api';
 import { useState } from 'react';
 import { VscHeart, VscHeartFilled } from 'react-icons/vsc';

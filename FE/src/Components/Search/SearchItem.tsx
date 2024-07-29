@@ -1,4 +1,4 @@
-import type { SearchType } from 'Pages/CYW/Search';
+import type { SearchType } from 'Pages/Search';
 import { useNavigate } from 'react-router-dom';
 
 interface OwnProps {

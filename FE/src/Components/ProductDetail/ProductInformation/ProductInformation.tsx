@@ -4,7 +4,7 @@ import SelectedResult from './SelectedResult';
 import ProductName from './ProductName';
 import Button from './Button';
 import Price from './Price';
-import type { ProductType } from 'Pages/CYW/ProductDetail';
+import type { ProductType } from 'Pages/ProductDetail';
 import { useState } from 'react';
 
 interface ProductTypeProps {

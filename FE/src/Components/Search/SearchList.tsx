@@ -1,4 +1,4 @@
-import type { SearchType } from 'Pages/CYW/Search';
+import type { SearchType } from 'Pages/Search';
 import SearchItem from './SearchItem';
 
 interface OwnProps {

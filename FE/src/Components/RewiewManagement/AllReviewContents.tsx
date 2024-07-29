@@ -2,7 +2,7 @@ import type {
   BestReviewType,
   ItemContentType,
   ReviewContentType,
-} from 'Pages/CYW/ReviewManagement';
+} from 'Pages/ReviewManagement';
 import api from 'api';
 
 interface OwnProps {

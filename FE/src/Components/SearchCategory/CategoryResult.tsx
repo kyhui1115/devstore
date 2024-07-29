@@ -1,4 +1,4 @@
-import type { CategoryContent } from 'Pages/CYW/Products';
+import type { CategoryContent } from 'Pages/Products';
 import CategoryItem from './CategoryItem';
 
 interface OwnProps {

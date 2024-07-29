@@ -1,6 +1,6 @@
 import TitleImg from './TitleImg';
 import SlideImg from './SlideImg';
-import type { ProductType } from 'Pages/CYW/ProductDetail';
+import type { ProductType } from 'Pages/ProductDetail';
 
 interface OwnProps {
   product: ProductType | null;

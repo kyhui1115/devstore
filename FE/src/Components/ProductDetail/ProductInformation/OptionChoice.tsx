@@ -1,4 +1,4 @@
-import type { OptionListType } from 'Pages/CYW/ProductDetail';
+import type { OptionListType } from 'Pages/ProductDetail';
 
 interface OwnProps {
   option: OptionListType[];

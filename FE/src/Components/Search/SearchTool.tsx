@@ -1,4 +1,4 @@
-import type { SearchType } from 'Pages/CYW/Search';
+import type { SearchType } from 'Pages/Search';
 import api from 'api';
 import { useState } from 'react';
 

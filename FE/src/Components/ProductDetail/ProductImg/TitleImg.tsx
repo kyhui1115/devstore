@@ -1,4 +1,4 @@
-import type { ProductType } from 'Pages/CYW/ProductDetail';
+import type { ProductType } from 'Pages/ProductDetail';
 import { LuImageOff } from 'react-icons/lu';
 
 interface OwnProps {
